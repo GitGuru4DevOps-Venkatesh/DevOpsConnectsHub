@@ -65,5 +65,5 @@ Feel free to explore, learn, and contribute to this evolving resource! Together,
 
 📢 Let's Connect! 📢
 Reach out on Facebook: @devopsconnectshub
-Connect on Instagram: @[Learning Aspirants in DevOps](https://www.facebook.com/LearningAspirants/about)https://www.facebook.com/LearningAspirants/about
+Connect on Instagram: @Learning Aspirants in DevOps]https://www.facebook.com/LearningAspirants/about
 
