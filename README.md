@@ -64,6 +64,7 @@ License Details and Usage Rights 📖
 Feel free to explore, learn, and contribute to this evolving resource! Together, we're making software delivery better, one commit at a time. 🚀
 
 📢 Let's Connect! 📢
-Reach out on Instagram: @devopsconnectshub
-Connect on Facebook: @Learning Aspirants in DevOps
+Reach out on Instagram: @devopsconnectshub-https://www.instagram.com/devopsconnectshub/#
+
+Connect on Facebook: @Learning Aspirants in DevOps-https://www.facebook.com/LearningAspirants
 
